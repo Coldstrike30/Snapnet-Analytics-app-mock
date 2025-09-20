@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import LineChartCard from "./components/LineChartCard";
-import DonutChartCard from "./components/DonutChartCard";
-import StackedChartCard from "./components/StackedChartCard";
-import HistogramCard from "./components/HistogramCard";
-import MetricCard from "./components/MetricCard";
+import LineChartCard from "./components/LineChartCard.jsx";
+import DonutChartCard from "./components/DonutChartCard.jsx";
+import StackedChartCard from "./components/StackedChartCard.jsx";
+import HistogramCard from "./components/HistogramCard.jsx";
+import MetricCard from "./components/MetricCard.jsx";
 import { Search } from "lucide-react";
 
 
